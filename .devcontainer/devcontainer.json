@@ -1,0 +1,8 @@
+{
+    "name": "signate-908-hiroshima",
+    "dockerFile": "Dockerfile",
+    "extensions": [
+        "ms-python.python",
+        "njpwerner.autodocstri",
+    ],
+}
